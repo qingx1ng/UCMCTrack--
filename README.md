@@ -128,6 +128,6 @@ pip install -r requirements.txt
 - Run UCMCTrack on the MOT17 validation dataset and evaluate performance metrics such as IDF1, HOTA, and MOTA locally
 
 ```bash
-. run_mot17_val.bat
+. run_mot17_val_cmc.bat
 ```
 
